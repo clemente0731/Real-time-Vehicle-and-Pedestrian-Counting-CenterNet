@@ -8,6 +8,12 @@ This project focuses " counting and statistics of moving targets we care about "
 
 - The demo is available on Youtube and Bilibili
 - on my laptop gtx1060 FPS reached 9-16 (dla34) , 12-35 (resdcn18)，It must be noted that due to DeepSORT efficiency issues, the bottleneck of running frames mainly comes from the computing power of the CPU, which limits the performance of the GPU 
+![pic1](https://github.com/Clemente420/Real-time-Vehicle-and-Pedestrian-Counting-CenterNet/blob/master/doc/Screenshot%20from%202020-05-04%2014-31-50.png)
+
+![pic2](https://github.com/Clemente420/Real-time-Vehicle-and-Pedestrian-Counting-CenterNet/blob/master/doc/Screenshot%20from%202020-05-04%2015-20-23.png)
+
+![pic3](https://github.com/Clemente420/Real-time-Vehicle-and-Pedestrian-Counting-CenterNet/blob/master/doc/Screenshot%20from%202020-05-04%2015-27-07.png)
+
 <a name="fOSw7"></a>
 # Installation
 Environmental requirements
